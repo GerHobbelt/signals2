@@ -51,7 +51,7 @@ file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
       <notes><para>The third parameter is
       <code>long</code> for the fallback version
       of <functionname>visit_each</functionname> and the argument
-      supplied to this third paramter must always be 0. The third
+      supplied to this third parameter must always be 0. The third
       parameter is an artifact of the widespread lack of proper
       function template ordering, and will be removed in the future.</para>
 
